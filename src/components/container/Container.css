@@ -1,0 +1,17 @@
+.container {
+    background-color: #1b1b1d;
+    padding: 1rem;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40rem;
+}
+
+.boxx {
+    display: flex;
+    align-items: center;
+    background-color: #2C2D30;
+    justify-content: center;
+}
+
