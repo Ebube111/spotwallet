@@ -13,7 +13,7 @@ export const CreateWallet = ({setSteps}) => {
                     <h3 className='text-gray-300 text-center py-5'>The original Bitcoin NFT wallet. Use this to unlock
                     the portal into the CryptoCorridor</h3>
                     <Button primary text={"Create a new Wallet"} full roundedLg onClick={() => setSteps(2)} />
-                    <Button secondary text={"Create a new Wallet"} full roundedLg onClick={() => setSteps(2)} />
+                    <Button secondary text={"I have a Wallet"} full roundedLg onClick={() => setSteps(2)} />
                 </div>
         </Box>
     )
